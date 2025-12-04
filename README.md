@@ -67,5 +67,5 @@ En el cliente (host externo):
 
 🧪 8. Pruebas Finales
 
-Se verifica la conexión mediante ping a la IP del servidor VPN (10.8.0.1).
+Se verifica la conexión mediante ping a la IP  (10.8.0.1).
 Si la instancia se detiene, puede reiniciarse desde Horizon.
